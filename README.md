@@ -1,7 +1,5 @@
 # **Hedge Fund Stock Market Analysis Apps**
 
-### Hugging Face Profile
-
 For more information on the models and spaces used in these apps, visit my [Hugging Face profile](https://huggingface.co/JayLacoma).
 
 ## Overview
