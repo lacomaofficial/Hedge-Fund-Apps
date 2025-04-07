@@ -1,14 +1,14 @@
-## **Hedge Fund Stock Market Analysis Apps**
+# **Hedge Fund Stock Market Analysis Apps**
 
 ### Hugging Face Profile
 
 For more information on the models and spaces used in these apps, visit my [Hugging Face profile](https://huggingface.co/JayLacoma).
 
-### Overview
+## Overview
 
 This repository houses a suite of advanced stock market analysis tools developed with Hugging Face’s cutting-edge AI models. These apps focus on a variety of financial analysis techniques, including market forecasting, sentiment analysis, technical indicators, and time series prediction. Designed for hedge fund managers, traders, and analysts, these apps provide powerful insights into stock performance, market trends, and economic conditions to make more informed investment decisions.
 
-### Apps Included
+## Apps Included
 
 - **Fundamental Financial Analysis**  
   Evaluate and compare companies based on their financial metrics and fundamentals to identify potential investment opportunities.
