@@ -1,4 +1,4 @@
-## Title: **Hedge Fund Stock Market Analysis Apps**
+# **Hedge Fund Stock Market Analysis Apps**
 
 ### Overview
 
