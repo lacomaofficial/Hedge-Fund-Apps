@@ -1,4 +1,8 @@
-# **Hedge Fund Stock Market Analysis Apps**
+## **Hedge Fund Stock Market Analysis Apps**
+
+### Hugging Face Profile
+
+For more information on the models and spaces used in these apps, visit my [Hugging Face profile](https://huggingface.co/JayLacoma).
 
 ### Overview
 
@@ -32,17 +36,8 @@ This repository houses a suite of advanced stock market analysis tools developed
 - **Time series forecasting** for predicting stock price movements with machine learning techniques.
 - **Global market comparisons** to assess how the U.S. market interacts with international economies.
 
-### How to Use
-
-1. Clone the repository to your local machine using `git clone <repository_url>`.
-2. Install the required dependencies with `pip install -r requirements.txt`.
-3. Run the specific app you need by executing `python app_name.py`.
-4. Refer to each app’s individual README for further instructions on how to use the features and models.
-
-### Contributing
-
-Contributions are welcome! If you’d like to contribute to these stock market analysis tools, feel free to fork the repository, open an issue, or submit a pull request. Any improvements to the functionality or addition of new features are greatly appreciated.
 
 ### License
 
 This project is licensed under the MIT License.
+
