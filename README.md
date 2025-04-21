@@ -26,6 +26,12 @@ This repository houses a suite of advanced stock market analysis tools developed
 - **Wall Street Forecast**  
   A predictive model for time series forecasting of stock prices using Meta AI, enabling you to project future stock movements.
 
+- **Ray Dalio's Economic Cycle Analysis**  
+  Analyze current market conditions using Ray Dalio's economic cycle framework.
+
+
+
+
 ### Features
 
 - Utilizes **Hugging Face AI models** for high-quality, real-time analysis and forecasting.
