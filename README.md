@@ -14,6 +14,9 @@ This repository houses a suite of advanced stock market analysis tools developed
 - **Global Market Analysis**  
   Analyze the U.S. stock market in relation to global markets, helping you understand the bigger picture and international influences on stock prices.
 
+- **Economic Cycle Analysis**  
+  Analyze current market conditions using Ray Dalio's economic cycle framework.
+
 - **Trader Lite**  
   A simple and user-friendly tool to explore technical indicators and perform time series forecasting for stock price prediction.
 
@@ -26,8 +29,7 @@ This repository houses a suite of advanced stock market analysis tools developed
 - **Wall Street Forecast**  
   A predictive model for time series forecasting of stock prices using Meta AI, enabling you to project future stock movements.
 
-- **Ray Dalio's Economic Cycle Analysis**  
-  Analyze current market conditions using Ray Dalio's economic cycle framework.
+
 
 
 
